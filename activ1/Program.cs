@@ -10,6 +10,9 @@ namespace activ1
     {
         static void Main(string[] args)
         {
+            Console.Write("Bienvenidos a la clase de c#");
+            Console.ReadKey();
+
         }
     }
 }
